@@ -1,0 +1,23 @@
+{
+  "name": "nodejs-json-test",
+  "version": "1.0.0",
+  "description": "A test program to figure out how big a JSON file we can load in Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://ashleydavis@github.com/JavaScript-Data-Wrangling/nodejs-json-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JavaScript-Data-Wrangling/nodejs-json-test/issues"
+  },
+  "homepage": "https://github.com/JavaScript-Data-Wrangling/nodejs-json-test#readme",
+  "dependencies": {
+    "bfj": "4.2.4"
+  }
+}
