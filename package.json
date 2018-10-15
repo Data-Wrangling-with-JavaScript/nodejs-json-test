@@ -4,6 +4,7 @@
   "description": "A test program to figure out how big a JSON file we can load in Node.js",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
