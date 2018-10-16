@@ -8,17 +8,13 @@ If you're a JavaScript developer, you already know that working with data is a b
 
 ## Setup
 
-Clone the repo to your local hard drive, change directory to the repo and then install npm dependencies:
+Clone the repo to your local hard drive and change directory to the repo.
 
-    npm install
+No dependencies are required.
 
 ## Run
 
 To determine the largest JSON string that can be deserialized through `JSON.parse` run:
-
-    npm start
-
-Or 
 
     node index.js
 
